@@ -12,6 +12,7 @@ public class Principal {
        poo.mostraratos();
        */
        
+        
         /*
         parametros dato = new parametros();
         
@@ -23,6 +24,7 @@ public class Principal {
         dato.mul(numero1, numero2);
         dato.mostrarDatos();
         */
+        
         
         /*
         retorno datos = new retorno();
